@@ -1,0 +1,14 @@
+Total Flow Matrix,,Film Manufacturer,Transportation,Film Consumption,Waste Management,MASC,STRAP,Pelletizing,Landfill,Virgin Input (PE + nylon 6),Renewable/recovered Input,Dissipation,Export
+,R(ij),1,2,3,4,5,6,7,8,9,10,11,12
+Film Manufacturer,1,0,0.6,0,0,0,0,0,0.033,0,0,0.033,0
+Transportation,2,0,0,0.6,0,0,0,0,0,0,0,0,0
+Film Consumption,3,0,0,0,0.5,0.5,0,0,0,0,0,0,0
+Waste Management,4,0,0,0,0,0,0.25,0.25,0,0,0,0,0
+MASC,5,0,0,0.4,0,0,0,0,0.075,0,0,0.025,0
+STRAP,6,0.2,0,0,0,0,0.2,0,0.0375,0,0,0.0125,0
+Pelletizing,7,0,0,0,0,0,0,0,0.0375,0,0,0.0125,0.2
+Landfill,8,0,0,0,0,0,0,0,0,0,0,0.183,0
+Virgin Input (PE + nylon 6),9,0.466,0,0,0,0,0,0,0,0,0,0,0
+Renewable/recovered Input,10,0,0,0,0,0,0,0,0,0,0,0,0
+Dissipation,11,0,0,0,0,0,0,0,0,0,0,0,0
+Export,12,0,0,0,0,0,0,0,0,0,0,0,0

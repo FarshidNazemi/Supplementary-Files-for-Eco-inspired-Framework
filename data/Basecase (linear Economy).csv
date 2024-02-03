@@ -1,0 +1,11 @@
+Total Flow Matrix,,Film Manufacturer,Transportation,Film Consumption,Waste Management ,Landfill,Virgin Input (PE + nylon 6),Renewable/recovered Input,Dissipation,Export
+,R(ij),1,2,3,4,5,6,7,8,9
+Film Manufacturer,1,0,1,0,0,0.0555,0,0,0.0555,0
+Transportation,2,0,0,1,0,0,0,0,0,0
+Film Consumption,3,0,0,0,1,0,0,0,0,0
+Waste Management ,4,0,0,0,0,1,0,0,0,0
+Landfill,5,0,0,0,0,0,0,0,1.0555,0
+Virgin Input (PE + nylon 6),6,1.111,0,0,0,0,0,0,0,0
+Renewable/recovered Input,7,0,0,0,0,0,0,0,0,0
+Dissipation,8,0,0,0,0,0,0,0,0,0
+Export,9,0,0,0,0,0,0,0,0,0
