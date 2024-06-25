@@ -31,12 +31,17 @@ This repository contains supplementary files for the journal manuscript titled *
 ### Dependencies
 
 The Jupyter Notebook requires the following Python packages:
-- pandas
 - numpy
-- networkx
-- matplotlib
-- seaborn
+- pandas
+- math (standard library)
+- matplotlib.pyplot
+- scipy.special
 
 You can install these packages using pip:
 ```bash
-pip install pandas numpy networkx matplotlib seaborn
+pip install numpy pandas matplotlib scipy
+
+### Contact
+For any questions or further information, please contact fnazemi@asu.edu.
+
+
