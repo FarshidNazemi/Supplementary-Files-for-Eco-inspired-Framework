@@ -10,7 +10,7 @@ This repository contains supplementary files for the journal manuscript titled *
 
 1. **Results.xlsx**: This Excel file contains the results for the indicators for the multilayer plastic film example discussed in the paper. It also includes the calculations for greenhouse gas (GHG) emissions.
 
-2. **network_analysis_and_tradeoff_calculations.ipynb**: This Jupyter Notebook contains the network analysis, tradeoff calculations, and more detailed calculations related to the study. The notebook uses various CSV files for input data, which are located in the `data` folder.
+2. **Source code.ipynb**: This Jupyter Notebook contains the network analysis, tradeoff calculations, and more detailed calculations related to the study. The notebook uses various CSV files for input data, which are located in the `data` folder.
 
 3. **data**: This folder contains all the CSV files used by the Jupyter Notebook for the calculations and analysis.
 
