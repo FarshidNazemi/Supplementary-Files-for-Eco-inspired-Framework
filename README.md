@@ -12,7 +12,7 @@ This repository contains supplementary files for the journal manuscript titled *
 
 2. **Source code.ipynb**: This Jupyter Notebook contains the network analysis, tradeoff calculations, and more detailed calculations related to the study. The notebook uses various CSV files for input data, which are located in the `data` folder.
 
-3. **data**: This folder contains all the CSV files used by the Jupyter Notebook for the calculations and analysis.
+3. **data**: This folder contains all the CSV files (network flow data) used by the Jupyter Notebook for the calculations and analysis.
 
 ### Instructions
 
@@ -20,12 +20,12 @@ This repository contains supplementary files for the journal manuscript titled *
 
 2. **Jupyter Notebook**:
    - Ensure you have Python and Jupyter Notebook installed. You can install Jupyter Notebook using Anaconda or pip.
-   - Navigate to the directory containing the `network_analysis_and_tradeoff_calculations.ipynb` file.
+   - Navigate to the directory containing the `Source code.ipynb` file.
    - Launch Jupyter Notebook by running the following command in your terminal or command prompt:
      ```bash
      jupyter notebook
      ```
-   - Open the `network_analysis_and_tradeoff_calculations.ipynb` file in Jupyter Notebook.
+   - Open the `Source code.ipynb` file in Jupyter Notebook.
    - Execute the cells to reproduce the network analysis, tradeoff calculations, and detailed calculations. The notebook reads the required data from the CSV files in the `data` folder.
 
 ### Dependencies
@@ -40,8 +40,7 @@ The Jupyter Notebook requires the following Python packages:
 You can install these packages using pip:
 ```bash
 pip install numpy pandas matplotlib scipy
-
+```
 ### Contact
 For any questions or further information, please contact fnazemi@asu.edu.
-
 
