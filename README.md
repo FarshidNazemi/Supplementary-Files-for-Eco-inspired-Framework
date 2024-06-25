@@ -1,4 +1,4 @@
-# Supplementary Files for Journal Manuscript
+# Supplementary Files for:
 
 ## Ecologically Inspired Metrics for Transitioning to a Sustainable and Resilient Circular Economy with Application to Multilayer Plastic Films
 
