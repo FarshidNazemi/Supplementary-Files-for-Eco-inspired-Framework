@@ -27,7 +27,7 @@ This repository contains supplementary files for the journal manuscript titled *
      jupyter notebook
      ```
    - Open the `Source code.ipynb` file in Jupyter Notebook.
-   - Execute the cells to reproduce the network analysis, tradeoff calculations, and detailed calculations. The notebook reads the required data from the CSV files in the `data` folder.
+   - Execute the cells to reproduce the network analysis. The notebook reads the required data from the CSV files in the `data` folder.
 
 ### Dependencies
 
