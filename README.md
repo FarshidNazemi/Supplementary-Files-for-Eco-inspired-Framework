@@ -10,9 +10,10 @@ This repository contains supplementary files for the journal manuscript titled *
 
 1. **Results.xlsx**: This Excel file contains the results for the indicators for the multilayer plastic film example discussed in the paper. It also includes the calculations for greenhouse gas (GHG) emissions.
 
-2. **Source code.ipynb**: This Jupyter Notebook contains the network analysis, tradeoff calculations, and more detailed calculations related to the study. The notebook uses various CSV files for input data, which are located in the `data` folder.
+2. **Source code.ipynb**: This Jupyter Notebook contains the network analysis and  detailed calculations of Eco-inspired indicators related to the multilayer film. The notebook uses various CSV files for input data, which are located in the `data` folder.
 
-3. **data**: This folder contains all the CSV files (network flow data) used by the Jupyter Notebook for the calculations and analysis.
+3. **data**: This folder contains all the CSV files (network flow data) used by the Jupyter Notebook for the calculations and analysis for multilayer films.
+4. **Eco-inspired-tool.ipynb** This Jupyter Notebook is designed to calculate Eco-inspired metrics for a network provided by the user. The instructions for using this notebook are included within the file.
 
 ### Instructions
 
@@ -34,12 +35,11 @@ The Jupyter Notebook requires the following Python packages:
 - numpy
 - pandas
 - math (standard library)
-- matplotlib.pyplot
 - scipy.special
 
 You can install these packages using pip:
 ```bash
-pip install numpy pandas matplotlib scipy
+pip install numpy pandas scipy
 ```
 ### Contact
 For any questions or further information, please contact fnazemi@asu.edu.
