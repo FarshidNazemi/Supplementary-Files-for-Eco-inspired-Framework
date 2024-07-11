@@ -35,7 +35,7 @@ The Jupyter Notebook requires the following Python packages:
 - numpy
 - pandas
 - math (standard library)
-- scipy.special
+- scipy
 
 You can install these packages using pip:
 ```bash
